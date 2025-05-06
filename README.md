@@ -61,8 +61,8 @@
 ![image](https://github.com/user-attachments/assets/b07fac00-f951-4c60-9a60-647e308c24d6)
 
 
-### Name:Malligesh
-### Register Number:212223230119
+### Name: KAMALESH R
+### Register Number: 212223230094
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
